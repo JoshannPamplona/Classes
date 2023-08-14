@@ -1,0 +1,112 @@
+Alberta Hospital (AH) Management System
+1 - Manage Doctors
+2 - Manage Facilities
+3 - Manage Laboratories
+4 - Manage Patients
+0 - Exit
+Enter your choice: 1
+
+Manage Doctors:
+1 - Display Doctors
+2 - Add Doctor
+3 - Back to Main Menu
+Enter your choice: 1
+
+Doctors List:
+Doctor ID: 101
+Name: Dr. Smith
+Specialization: Cardiologist
+Working Time: 9 AM - 5 PM
+Qualification: MD, PhD
+Room Number: 204
+==============================
+
+Manage Doctors:
+1 - Display Doctors
+2 - Add Doctor
+3 - Back to Main Menu
+Enter your choice: 3
+Alberta Hospital (AH) Management System
+1 - Manage Doctors
+2 - Manage Facilities
+3 - Manage Laboratories
+4 - Manage Patients
+0 - Exit
+Enter your choice: 2
+
+Manage Facilities:
+1 - Display Facilities
+2 - Add Facility
+3 - Back to Main Menu
+Enter your choice: 1
+
+Facilities List:
+Facility Name: Emergency Room
+==============================
+
+Manage Facilities:
+1 - Display Facilities
+2 - Add Facility
+3 - Back to Main Menu
+Enter your choice: 3
+Alberta Hospital (AH) Management System
+1 - Manage Doctors
+2 - Manage Facilities
+3 - Manage Laboratories
+4 - Manage Patients
+0 - Exit
+Enter your choice: 3
+
+Manage Laboratories:
+1 - Display Laboratories
+2 - Add Laboratory
+3 - Back to Main Menu
+Enter your choice: 1
+
+Laboratories List:
+Laboratory Name: Lab A
+Cost: $$100
+==============================
+
+Manage Laboratories:
+1 - Display Laboratories
+2 - Add Laboratory
+3 - Back to Main Menu
+Enter your choice: 3
+Alberta Hospital (AH) Management System
+1 - Manage Doctors
+2 - Manage Facilities
+3 - Manage Laboratories
+4 - Manage Patients
+0 - Exit
+Enter your choice: 4
+
+Manage Patients:
+1 - Display Patients
+2 - Add Patient
+3 - Back to Main Menu
+Enter your choice: 1
+
+Patients List:
+Patient ID: P001
+Name: John Doe
+Disease: Fever
+Gender: Male
+Age: 30
+==============================
+
+Manage Patients:
+1 - Display Patients
+2 - Add Patient
+3 - Back to Main Menu
+Enter your choice: 3
+Alberta Hospital (AH) Management System
+1 - Manage Doctors
+2 - Manage Facilities
+3 - Manage Laboratories
+4 - Manage Patients
+0 - Exit
+Enter your choice: 0
+Exiting Alberta Hospital (AH) Management System. Goodbye!
+
+Process finished with exit code 0
